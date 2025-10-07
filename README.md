@@ -2,8 +2,7 @@
 [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)のPythonでのONNX推論サンプルです。<br>
 変換自体を試したい方は、Google Colaboratory上で[Convert2ONNX.ipynb](Convert2ONNX.ipynb)を使用ください。<br><br>
 
-![image](https://github.com/user-attachments/assets/9e1db163-15c9-40da-a38c-dcbcba63a57e)
-
+![image](https://github.com/user-attachments/assets/7e1fa0d3-5baa-43c3-9b5f-5c2fefee3956)
 
 # Requirement 
 * OpenCV 4.5.3.56 or later
