@@ -1,5 +1,5 @@
 # DEIM-ONNX-Sample
-[ShihuaHuang95/DEIM](https://github.com/ShihuaHuang95/DEIM)のPythonでのONNX推論サンプルです。<br>
+[Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)のPythonでのONNX推論サンプルです。<br>
 変換自体を試したい方は、Google Colaboratory上で[Convert2ONNX.ipynb](Convert2ONNX.ipynb)を使用ください。<br><br>
 
 ![image](https://github.com/user-attachments/assets/9e1db163-15c9-40da-a38c-dcbcba63a57e)
@@ -10,7 +10,7 @@
 * onnxruntime 1.11.0 or later
 
 # Convert
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/DEIM-ONNX-Sample/blob/main/Convert2ONNX.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/DEIMv2-ONNX-Sample/blob/main/Convert2ONNX.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。<br>
 
 # Demo
@@ -38,13 +38,13 @@ GPU推論なし（CPU推論）<br>
 デフォルト：指定なし
 
 # Reference
-* [ShihuaHuang95/DEIM](https://github.com/ShihuaHuang95/DEIM)
+* [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-DEIM-ONNX-Sample is under [Apache 2.0 License](LICENSE).
+DEIMv2-ONNX-Sample is under [Apache 2.0 License](LICENSE).
 
 # Note
 サンプルの画像は[ぱくたそ](https://www.pakutaso.com/)様の「[ものすごい数のバイクの列（ベトナムホーチミン）](https://www.pakutaso.com/20170628178post-12228.html)」を使用しています。
