@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/7e1fa0d3-5baa-43c3-9b5f-5c2fefee3956)
 
-# Requirement 
+# Requirement
 * OpenCV 4.5.3.56 or later
 * onnxruntime 1.11.0 or later
 
@@ -28,7 +28,7 @@ python sample_onnx.py
 デフォルト：指定なし
 * --model<br>
 ロードするモデルの格納パス<br>
-デフォルト：model/deim_dfine_hgnetv2_s_coco_120e.onnx
+デフォルト：model/deimv2_hgnetv2_n_coco.onnx
 * --score_th<br>
 検出閾値<br>
 デフォルト：0.6
@@ -41,8 +41,8 @@ GPU推論なし（CPU推論）<br>
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
- 
-# License 
+
+# License
 DEIMv2-ONNX-Sample is under [Apache 2.0 License](LICENSE).
 
 # Note
