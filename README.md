@@ -1,4 +1,4 @@
-# DEIM-ONNX-Sample
+# DEIMv2-ONNX-Sample
 [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)のPythonでのONNX推論サンプルです。<br>
 変換自体を試したい方は、Google Colaboratory上で[Convert2ONNX.ipynb](Convert2ONNX.ipynb)を使用ください。<br><br>
 
